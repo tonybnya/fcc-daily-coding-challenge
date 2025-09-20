@@ -10,8 +10,8 @@ can store using the following constraints:
 - 1 gigabyte equals 1000 megabytes.
 - Return the number of whole photos the drive can store.
 """
-from typing import Union
 from math import floor
+from typing import Union
 
 
 def number_of_photos(
