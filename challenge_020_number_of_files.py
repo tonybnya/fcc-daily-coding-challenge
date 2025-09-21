@@ -28,10 +28,19 @@ def number_of_files(
     file_unit: str,
     drive_size_gb: float
 ) -> int:
+    units: dict[str, int] = {
+        'MB': 1,
+        'KB': 2,
+        'B': 3
+    }
+    base: int = 1000
+    power: int = 0
+
     if file_unit == 'MB':
-        return int((drive_size_gb * 1000) / file_size)
-    if file_unit == 'KB':
-        return int((drive_size_gb * 1000000) / file_size)
-    if file_unit == 'B':
-        return int((drive_size_gb * 1000000000) / file_size)
-    return -1
+        power = units.get('MB', 0)
+    elif file_unit == 'KB':
+        power = units.get('KB', 0)
+    elif file_unit == 'B':
+        power = units.get('B', 0)
+
+    return int((drive_size_gb * (base ** power)) / file_size)
