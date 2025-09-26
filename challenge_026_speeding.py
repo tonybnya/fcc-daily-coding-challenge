@@ -14,13 +14,23 @@ of those vehicles.
 
 
 def speeding(speeds: list[int], limit: int) -> list[int | float]:
-    beyonds: list[int] = []
-
+    # beyonds: list[int] = []
+    #
+    # for speed in speeds:
+    #     if speed > limit:
+    #         beyonds.append(speed - limit)
+    #
+    # if not beyonds:
+    #     return [0, 0]
+    #
+    # return [len(beyonds), sum(beyonds) / len(beyonds)]
+    count, gaps = 0, 0
     for speed in speeds:
         if speed > limit:
-            beyonds.append(speed - limit)
+            gaps += (speed - limit)
+            count += 1
 
-    if not beyonds:
+    if gaps == 0:
         return [0, 0]
 
-    return [len(beyonds), sum(beyonds) / len(beyonds)]
+    return [count, gaps / count]
