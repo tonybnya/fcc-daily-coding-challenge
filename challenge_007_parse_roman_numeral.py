@@ -23,7 +23,7 @@ M 	    1000
 
 
 def parse_roman_numeral(numeral: str) -> int:
-    symbols: dict[str, int] = {
+    SYMBOLS: dict[str, int] = {
         'I': 1,
         'V': 5,
         'X': 10,
@@ -37,11 +37,11 @@ def parse_roman_numeral(numeral: str) -> int:
 
     i: int = 0
     while i < n:
-        if i + 1 < n and symbols.get(numeral[i], 0) < symbols.get(numeral[i + 1], 0):
-            value = symbols.get(numeral[i + 1], 0) - symbols.get(numeral[i], 0)
+        if i + 1 < n and SYMBOLS.get(numeral[i], 0) < SYMBOLS.get(numeral[i + 1], 0):
+            value = SYMBOLS.get(numeral[i + 1], 0) - SYMBOLS.get(numeral[i], 0)
             i += 2
         else:
-            value = symbols.get(numeral[i], 0)
+            value = SYMBOLS.get(numeral[i], 0)
             i += 1
         number += value
 
