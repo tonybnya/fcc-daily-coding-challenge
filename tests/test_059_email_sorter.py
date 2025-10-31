@@ -47,5 +47,5 @@ from challenge_059_email_sorter import sort
         ),
     ],
 )
-def test_059_email_sorter(emails: list[str], expected: list[str]) -> None:
+def test_email_sorter(emails: list[str], expected: list[str]) -> None:
     assert sort(emails) == expected
