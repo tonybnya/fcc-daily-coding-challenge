@@ -1,7 +1,6 @@
 """
 Script Name : challenge_045_strip_tags.py
 Description : HTML Tag Stripper
-Usage       : python3 challenge_045_strip_tags.py [args]
 Author      : @tonybnya
 
 Given a string of HTML code, remove the tags and return the plain text content.

@@ -25,6 +25,54 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Screen Time
 - [x] Missing Numbers
 - [x] Word Frequency
+- [x] Thermostat Adjuster
+- [x] Sentence Capitalizer
+- [x] Slug Generator
+- [x] Fill The Tank
+- [x] Photo Storage
+- [x] File Storage
+- [x] Video Storage
+- [x] Digits vs Letters
+- [x] String Mirror
+- [x] Perfect Square
+- [x] 2nd Largest
+- [x] Caught Speeding
+- [x] Spam Detector
+- [x] CSV Header Parser
+- [x] Longest Word
+- [x] Phone Number Formatter
+- [x] Binary to Decimal
+- [x] Decimal to Binary
+- [x] Password Strength
+- [x] Space Week Day 1: Stellar Constellation
+- [x] Space Week Day 2: Exoplanet Search
+- [x] Space Week Day 3: Phone Home
+- [x] Space Week Day 4: Landing Spot
+- [x] Space Week Day 5: Goldilocks Zone
+- [x] Space Week Day 6: Moon Phase
+- [x] Space Week Day 7: Launch Fuel
+- [x] Hex to Decimal
+- [x] Battle of Words
+- [x] 24 to 12
+- [x] String Count
+- [x] HTML Tag Stripper
+- [x] Email Validator
+- [x] Credit Card Masker
+- [x] Missing Socks
+- [x] HTML Attribute
+- [x] Tip Calculator
+- [x] Thermostat Adjuster 2
+- [x] Speak Wisely, You Must
+- [x] Favorite Songs
+- [x] Hidden Treasure
+- [x] Complementary DNA
+- [x] Duration Formatter
+- [x] Integer Sequence
+- [x] Navigator
+- [x] Email Sorter
+- [x] Nth Prime
+- [x] Spooky Case
+- [x] Signature Validation
 
 ## 🚀 Getting Started
 
