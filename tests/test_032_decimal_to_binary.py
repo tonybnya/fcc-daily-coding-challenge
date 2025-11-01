@@ -4,7 +4,7 @@ Description : Test suite for Decimal to Binary
 Author      : @tonybnya
 """
 import pytest
-from challenge_032_decimal_to_binary import to_binary
+from fcc_032_decimal_to_binary import to_binary
 
 
 @pytest.mark.parametrize(

@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_052_wise_speak import wise_speak
+from fcc_052_wise_speak import wise_speak
 
 
 @pytest.mark.parametrize(

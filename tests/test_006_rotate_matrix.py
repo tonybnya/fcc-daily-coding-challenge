@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_006_rotate_matrix import rotate
+from fcc_006_rotate_matrix import rotate
 
 
 @pytest.mark.parametrize(

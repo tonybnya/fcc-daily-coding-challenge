@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_047_credit_card_masker import mask
+from fcc_047_credit_card_masker import mask
 
 
 @pytest.mark.parametrize(

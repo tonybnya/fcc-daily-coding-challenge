@@ -4,7 +4,7 @@ Description : Test suite for Landing Spot challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_037_find_landing_spot import find_landing_spot
+from fcc_037_find_landing_spot import find_landing_spot
 
 
 @pytest.mark.parametrize(

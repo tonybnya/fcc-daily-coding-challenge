@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_010_array_diff import array_diff
+from fcc_010_array_diff import array_diff
 
 
 @pytest.mark.parametrize(

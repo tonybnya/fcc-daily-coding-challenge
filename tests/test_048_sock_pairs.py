@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_048_sock_pairs import sock_pairs
+from fcc_048_sock_pairs import sock_pairs
 
 
 @pytest.mark.parametrize(

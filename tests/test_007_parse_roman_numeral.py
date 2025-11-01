@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_007_parse_roman_numeral import parse_roman_numeral
+from fcc_007_parse_roman_numeral import parse_roman_numeral
 
 
 @pytest.mark.parametrize(

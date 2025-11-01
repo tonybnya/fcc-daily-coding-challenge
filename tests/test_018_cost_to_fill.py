@@ -4,7 +4,7 @@ Description : Tests for Fill The Tank challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_018_cost_to_fill import cost_to_fill
+from fcc_018_cost_to_fill import cost_to_fill
 
 
 @pytest.mark.parametrize(

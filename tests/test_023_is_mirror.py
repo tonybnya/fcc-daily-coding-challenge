@@ -4,7 +4,7 @@ Description : Tests for String Mirror challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_023_is_mirror import is_mirror
+from fcc_023_is_mirror import is_mirror
 
 
 @pytest.mark.parametrize(

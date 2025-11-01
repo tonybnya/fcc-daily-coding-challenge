@@ -4,7 +4,7 @@ Description : Slug Generator
 Author      : @tonybnya
 """
 import pytest
-from challenge_017_generate_slug import generate_slug
+from fcc_017_generate_slug import generate_slug
 
 
 @pytest.mark.parametrize(

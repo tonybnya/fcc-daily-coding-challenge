@@ -4,7 +4,7 @@ Description : Test suite for Phone Number Formatter challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_030_format_number import format_number
+from fcc_030_format_number import format_number
 
 
 @pytest.mark.parametrize(

@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_057_integer_sequence import sequence
+from fcc_057_integer_sequence import sequence
 
 
 @pytest.mark.parametrize(

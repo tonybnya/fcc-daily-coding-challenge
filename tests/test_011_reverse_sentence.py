@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_011_reverse_sentence import reverse_sentence
+from fcc_011_reverse_sentence import reverse_sentence
 
 
 @pytest.mark.parametrize(

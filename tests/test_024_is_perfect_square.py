@@ -4,7 +4,7 @@ Description : Test suite for Perfect Square challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_024_is_perfect_square import is_perfect_square
+from fcc_024_is_perfect_square import is_perfect_square
 
 
 @pytest.mark.parametrize(

@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_008_build_acronym import build_acronym
+from fcc_008_build_acronym import build_acronym
 
 
 @pytest.mark.parametrize(

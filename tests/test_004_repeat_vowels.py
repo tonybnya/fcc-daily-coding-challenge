@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_004_repeat_vowels import repeat_vowels
+from fcc_004_repeat_vowels import repeat_vowels
 
 
 @pytest.mark.parametrize(

@@ -4,7 +4,7 @@ Description : Test suite for CSV Header Parser challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_028_get_headings import get_headings
+from fcc_028_get_headings import get_headings
 
 
 @pytest.mark.parametrize(

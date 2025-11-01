@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_050_calculate_tips import calculate_tips
+from fcc_050_calculate_tips import calculate_tips
 
 
 @pytest.mark.parametrize(

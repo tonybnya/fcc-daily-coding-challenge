@@ -4,7 +4,7 @@ Description : Test suite for Password Check challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_033_check_strength import check_strength
+from fcc_033_check_strength import check_strength
 
 
 @pytest.mark.parametrize(

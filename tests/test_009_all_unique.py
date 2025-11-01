@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_009_all_unique import all_unique
+from fcc_009_all_unique import all_unique
 
 
 @pytest.mark.parametrize(

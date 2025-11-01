@@ -4,7 +4,7 @@ Description : Tests for Video Storage challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_021_number_of_videos import number_of_videos
+from fcc_021_number_of_videos import number_of_videos
 
 
 @pytest.mark.parametrize(

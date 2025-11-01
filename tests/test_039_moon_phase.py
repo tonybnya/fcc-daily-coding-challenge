@@ -4,7 +4,7 @@ Description : Test suite for Space Week Day 6: Moon Phase
 Author      : @tonybnya
 """
 import pytest
-from challenge_039_moon_phase import moon_phase
+from fcc_039_moon_phase import moon_phase
 
 
 @pytest.mark.parametrize(

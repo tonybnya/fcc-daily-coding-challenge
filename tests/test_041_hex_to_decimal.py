@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_041_hex_to_decimal import hex_to_decimal
+from fcc_041_hex_to_decimal import hex_to_decimal
 
 
 @pytest.mark.parametrize(

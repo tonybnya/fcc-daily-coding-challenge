@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_055_complementary_dna import complementary_dna
+from fcc_055_complementary_dna import complementary_dna
 
 
 @pytest.mark.parametrize(

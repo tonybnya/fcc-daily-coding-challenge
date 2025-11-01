@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_053_favorite_songs import favorite_songs
+from fcc_053_favorite_songs import favorite_songs
 
 
 @pytest.mark.parametrize(

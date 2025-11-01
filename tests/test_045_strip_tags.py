@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_045_strip_tags import strip_tags
+from fcc_045_strip_tags import strip_tags
 
 
 @pytest.mark.parametrize(

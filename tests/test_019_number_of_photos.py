@@ -6,7 +6,7 @@ Author      : @tonybnya
 from typing import Union
 
 import pytest
-from challenge_019_number_of_photos import number_of_photos
+from fcc_019_number_of_photos import number_of_photos
 
 
 @pytest.mark.parametrize(

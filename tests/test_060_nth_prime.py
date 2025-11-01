@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_060_nth_prime import nth_prime
+from fcc_060_nth_prime import nth_prime
 
 
 @pytest.mark.parametrize(

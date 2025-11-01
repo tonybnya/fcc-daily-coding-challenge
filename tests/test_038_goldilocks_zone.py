@@ -4,7 +4,7 @@ Description : Test suite for Space Week Day 5: Goldilocks Zone
 Author      : @tonybnya
 """
 import pytest
-from challenge_038_goldilocks_zone import goldilocks_zone
+from fcc_038_goldilocks_zone import goldilocks_zone
 
 
 @pytest.mark.parametrize(

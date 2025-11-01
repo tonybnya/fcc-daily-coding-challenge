@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_002_rgb_to_hex import rgb_to_hex
+from fcc_002_rgb_to_hex import rgb_to_hex
 
 
 @pytest.mark.parametrize(

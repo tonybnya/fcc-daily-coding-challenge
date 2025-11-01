@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_043_to_12 import to_12
+from fcc_043_to_12 import to_12
 
 
 @pytest.mark.parametrize(

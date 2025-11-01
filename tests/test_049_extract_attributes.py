@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_049_extract_attributes import extract_attributes
+from fcc_049_extract_attributes import extract_attributes
 
 
 @pytest.mark.parametrize(

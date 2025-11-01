@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_056_duration_formatter import format
+from fcc_056_duration_formatter import format
 
 
 @pytest.mark.parametrize(

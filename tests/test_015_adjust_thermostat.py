@@ -4,7 +4,7 @@ Description : Tests for Thermostat Adjuster challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_015_adjust_thermostat import adjust_thermostat
+from fcc_015_adjust_thermostat import adjust_thermostat
 
 
 @pytest.mark.parametrize(

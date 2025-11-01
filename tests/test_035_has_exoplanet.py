@@ -4,7 +4,7 @@ Description : Test suite for Exoplanet Search
 Author      : @tonybnya
 """
 import pytest
-from challenge_035_has_exoplanet import has_exoplanet
+from fcc_035_has_exoplanet import has_exoplanet
 
 
 @pytest.mark.parametrize(

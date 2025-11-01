@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_005_is_valid_ipv4 import is_valid_ipv4
+from fcc_005_is_valid_ipv4 import is_valid_ipv4
 
 
 @pytest.mark.parametrize(

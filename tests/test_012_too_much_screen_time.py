@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_012_too_much_screen_time import too_much_screen_time
+from fcc_012_too_much_screen_time import too_much_screen_time
 
 
 @pytest.mark.parametrize(

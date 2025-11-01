@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_061_spooky_case import spookify
+from fcc_061_spooky_case import spookify
 
 
 @pytest.mark.parametrize(

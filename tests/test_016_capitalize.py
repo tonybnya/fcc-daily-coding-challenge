@@ -4,7 +4,7 @@ Description : Tests for Sentence Capitalizer challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_016_capitalize import capitalize
+from fcc_016_capitalize import capitalize
 
 
 @pytest.mark.parametrize(

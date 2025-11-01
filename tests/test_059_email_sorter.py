@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_059_email_sorter import sort
+from fcc_059_email_sorter import sort
 
 
 @pytest.mark.parametrize(

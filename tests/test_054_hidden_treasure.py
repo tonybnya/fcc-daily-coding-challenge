@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_054_hidden_treasure import dive
+from fcc_054_hidden_treasure import dive
 
 
 @pytest.mark.parametrize(

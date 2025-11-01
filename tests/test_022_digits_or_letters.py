@@ -4,7 +4,7 @@ Description : Tests for Digits vs Letters challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_022_digits_or_letters import digits_or_letters
+from fcc_022_digits_or_letters import digits_or_letters
 
 
 @pytest.mark.parametrize(

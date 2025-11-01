@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_051_adjust_thermostat import adjust_thermostat
+from fcc_051_adjust_thermostat import adjust_thermostat
 
 
 @pytest.mark.parametrize(

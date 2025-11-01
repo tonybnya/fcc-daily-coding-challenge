@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_013_find_missing_numbers import find_missing_numbers
+from fcc_013_find_missing_numbers import find_missing_numbers
 
 
 @pytest.mark.parametrize(

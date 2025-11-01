@@ -4,7 +4,7 @@ Description : Test suite for Phone Home
 Author      : @tonybnya
 """
 import pytest
-from challenge_036_send_message import send_message
+from fcc_036_send_message import send_message
 
 
 @pytest.mark.parametrize(

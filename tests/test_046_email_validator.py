@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_046_email_validator import validate
+from fcc_046_email_validator import validate
 
 
 @pytest.mark.parametrize(

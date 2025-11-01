@@ -4,7 +4,7 @@ Description : Test suite for Spam Detector challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_027_is_spam import is_spam
+from fcc_027_is_spam import is_spam
 
 
 @pytest.mark.parametrize(

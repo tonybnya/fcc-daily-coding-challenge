@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_003_is_pangram import is_pangram
+from fcc_003_is_pangram import is_pangram
 
 
 @pytest.mark.parametrize(

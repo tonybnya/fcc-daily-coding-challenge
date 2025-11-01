@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_040_launch_fuel import launch_fuel
+from fcc_040_launch_fuel import launch_fuel
 
 
 @pytest.mark.parametrize(

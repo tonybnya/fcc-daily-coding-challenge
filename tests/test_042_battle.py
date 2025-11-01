@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_042_battle import battle
+from fcc_042_battle import battle
 
 
 @pytest.mark.parametrize(

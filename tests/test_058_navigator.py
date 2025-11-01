@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 
 import pytest
-from challenge_058_navigator import navigate
+from fcc_058_navigator import navigate
 
 
 @pytest.mark.parametrize(

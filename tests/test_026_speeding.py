@@ -4,7 +4,7 @@ Description : Test suite for Caught Speeding challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_026_speeding import speeding
+from fcc_026_speeding import speeding
 
 
 @pytest.mark.parametrize(

@@ -4,7 +4,7 @@ Description : Test suite for 2nd Largest challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_025_second_largest import second_largest
+from fcc_025_second_largest import second_largest
 
 
 @pytest.mark.parametrize(

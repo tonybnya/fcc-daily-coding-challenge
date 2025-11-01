@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_020_number_of_files import number_of_files
+from fcc_020_number_of_files import number_of_files
 
 
 @pytest.mark.parametrize(

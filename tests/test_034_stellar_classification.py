@@ -4,7 +4,7 @@ Description : Test suite for Stellar Classification
 Author      : @tonybnya
 """
 import pytest
-from challenge_034_stellar_classification import classification
+from fcc_034_stellar_classification import classification
 
 
 @pytest.mark.parametrize(

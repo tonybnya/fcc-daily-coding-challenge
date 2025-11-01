@@ -4,7 +4,7 @@ Description : Test suite for Longest Word challenge
 Author      : @tonybnya
 """
 import pytest
-from challenge_029_get_longest_word import get_longest_word
+from fcc_029_get_longest_word import get_longest_word
 
 
 @pytest.mark.parametrize(

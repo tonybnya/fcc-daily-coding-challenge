@@ -5,7 +5,7 @@ Author      : @tonybnya
 """
 import pytest
 
-from challenge_014_get_words import get_words
+from fcc_014_get_words import get_words
 
 
 @pytest.mark.parametrize(
