@@ -73,6 +73,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Nth Prime
 - [x] Spooky Case
 - [x] Signature Validation
+- [x] Infected
 
 ## 🚀 Getting Started
 
