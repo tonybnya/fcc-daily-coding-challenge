@@ -78,6 +78,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Image Search
 - [x] Matrix Builder
 - [x] Weekday Finder
+- [x] Counting Cards
 
 ## 🚀 Getting Started
 
