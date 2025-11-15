@@ -79,6 +79,12 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Matrix Builder
 - [x] Weekday Finder
 - [x] Counting Cards
+- [x] Character Limit
+- [x] Word Search
+- [x] Extension Extractor
+- [x] Vowels and Consonants
+- [x] Email Signature Generator
+- [x] GCD
 
 ## 🚀 Getting Started
 
