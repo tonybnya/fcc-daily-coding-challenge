@@ -11,6 +11,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 
 ## 🎯 Challenge Progress
 
+- [x] Vowel Balance
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
