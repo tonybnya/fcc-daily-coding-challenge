@@ -17,6 +17,8 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] SPACEJAM
 - [x] Jbelmud Text
 - [x] Anagram Checker
+- [x] Targeted Sum
+- [x] Factorializer
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
