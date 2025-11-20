@@ -14,6 +14,9 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Vowel Balance
 - [x] Base Check
 - [x] Fibonacci Sequence
+- [x] SPACEJAM
+- [x] Jbelmud Text
+- [x] Anagram Checker
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
