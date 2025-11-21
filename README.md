@@ -21,6 +21,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Factorializer
 - [x] Sum of Squares
 - [x] 3 Strikes
+- [x] Mile Pace
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
