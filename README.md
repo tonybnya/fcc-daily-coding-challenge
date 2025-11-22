@@ -24,6 +24,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Mile Pace
 - [x] Message Decoder
 - [x] Unnatural Prime
+- [x] Character Battle
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
