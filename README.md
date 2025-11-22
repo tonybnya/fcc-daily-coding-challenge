@@ -22,6 +22,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Sum of Squares
 - [x] 3 Strikes
 - [x] Mile Pace
+- [x] Message Decoder
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
