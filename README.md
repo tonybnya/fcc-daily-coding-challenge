@@ -25,6 +25,9 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Message Decoder
 - [x] Unnatural Prime
 - [x] Character Battle
+- [x] Camel Case
+- [x] Reverse Parenthesis
+- [x] Unorder of Operations
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
