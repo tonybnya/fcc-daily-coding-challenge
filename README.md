@@ -28,6 +28,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Camel Case
 - [x] Reverse Parenthesis
 - [x] Unorder of Operations
+- [x] Second Best
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
