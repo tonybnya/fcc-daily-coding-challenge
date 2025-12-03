@@ -29,6 +29,9 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Reverse Parenthesis
 - [x] Unorder of Operations
 - [x] Second Best
+- [x] Candlelight
+- [x] Array Duplicates
+- [x] Hex Generator
 - [x] Tribonacci Sequence
 - [x] RGB to Hex
 - [x] Pangram
@@ -103,6 +106,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Vowels and Consonants
 - [x] Email Signature Generator
 - [x] GCD
+- [x] Rectangle Count
 
 ## 🚀 Getting Started
 
