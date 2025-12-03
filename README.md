@@ -107,6 +107,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Email Signature Generator
 - [x] GCD
 - [x] Rectangle Count
+- [x] Fingerprint Test
 
 ## 🚀 Getting Started
 
