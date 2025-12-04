@@ -109,6 +109,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Rectangle Count
 - [x] Fingerprint Test
 - [x] 100 Characters
+- [x] Markdown Heading Converter
 
 ## 🚀 Getting Started
 
