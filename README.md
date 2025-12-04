@@ -110,6 +110,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Fingerprint Test
 - [x] 100 Characters
 - [x] Markdown Heading Converter
+- [x] Longest Word
 
 ## 🚀 Getting Started
 
