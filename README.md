@@ -111,6 +111,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] 100 Characters
 - [x] Markdown Heading Converter
 - [x] Longest Word
+- [x] LCM
 
 ## 🚀 Getting Started
 
