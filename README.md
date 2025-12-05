@@ -112,6 +112,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Markdown Heading Converter
 - [x] Longest Word
 - [x] LCM
+- [x] Recipe Scaler
 
 ## 🚀 Getting Started
 
