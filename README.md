@@ -113,6 +113,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Longest Word
 - [x] LCM
 - [x] Recipe Scaler
+- [x] Character Count
 
 ## 🚀 Getting Started
 
