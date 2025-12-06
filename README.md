@@ -116,6 +116,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Character Count
 - [x] Message Validator
 - [x] FizzBuzz
+- [x] BuzzFizz
 
 ## 🚀 Getting Started
 
