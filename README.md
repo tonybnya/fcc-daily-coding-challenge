@@ -114,6 +114,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] LCM
 - [x] Recipe Scaler
 - [x] Character Count
+- [x] Message Validator
 
 ## 🚀 Getting Started
 
