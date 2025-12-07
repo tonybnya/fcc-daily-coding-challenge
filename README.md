@@ -117,6 +117,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Message Validator
 - [x] FizzBuzz
 - [x] BuzzFizz
+- [x] What's My Age Again?
 
 ## 🚀 Getting Started
 
