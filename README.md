@@ -122,6 +122,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Ball Trajectory
 - [x] AI Detector
 - [x] Miles to Kilometers
+- [x] Camel to Snake
 
 ## 🚀 Getting Started
 
