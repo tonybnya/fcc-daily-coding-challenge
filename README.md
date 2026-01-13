@@ -121,6 +121,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Word Guesser
 - [x] Ball Trajectory
 - [x] AI Detector
+- [x] Miles to Kilometers
 
 ## 🚀 Getting Started
 
