@@ -118,6 +118,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] FizzBuzz
 - [x] BuzzFizz
 - [x] What's My Age Again?
+- [x] Word Guesser
 
 ## 🚀 Getting Started
 
