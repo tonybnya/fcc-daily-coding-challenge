@@ -124,6 +124,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Miles to Kilometers
 - [x] Camel to Snake
 - [x] Markdown Ordered List Item Converter
+- [x] Permutation Count
 
 ## 🚀 Getting Started
 
