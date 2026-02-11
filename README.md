@@ -125,6 +125,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Camel to Snake
 - [x] Markdown Ordered List Item Converter
 - [x] Permutation Count
+- [x] Symmetric Difference
 
 ## 🚀 Getting Started
 
