@@ -127,6 +127,7 @@ Each challenge is implemented as a Python module with unit tests using pytest.
 - [x] Permutation Count
 - [x] Symmetric Difference
 - [x] Date Formatter
+- [x] String Compression
 
 ## 🚀 Getting Started
 
